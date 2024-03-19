@@ -1,0 +1,25 @@
+.main {
+  background-color: aliceblue;
+  padding: 10px;
+}
+.addTodo {
+  background-color: #0c3f15;
+  padding: 10px;
+  margin: 10px 0;
+  color: aliceblue;
+}
+.addTodo input {
+  border: 2px solid #3a03f0;
+  padding: 5px;
+  margin-right: 5px;
+  display: inline-block;
+  color: #000407;
+}
+.addTodo button {
+  color: aliceblue;
+  padding: 5px;
+  display: inline-block;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 2px solid #3a03f0;
+}
